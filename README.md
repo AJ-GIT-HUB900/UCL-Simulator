@@ -1,6 +1,8 @@
 # UCL-Simulator
 Here is a complete, structured GitHub `README.md` file tailored for this project. It highlights the statistical complexity of the code while remaining accessible to other developers.
 
+![UEFA Champions League](ucl.png)
+
 ---
 
 # 🏆 UEFA Champions League Monte Carlo Simulator
